@@ -1,0 +1,9 @@
+name: DiamondDuels
+main: me.kennedydev.diamondduels.main.Main
+version: 1.0
+author: KennedyDev
+
+commands:
+  saveinv:
+  loadinv:
+  dd:
